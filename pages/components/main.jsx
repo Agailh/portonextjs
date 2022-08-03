@@ -8,13 +8,13 @@ const Main = () => {
     <div id="home" className="w-full h-screen text-center">
       <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div>
-          <p className="upercase text-sm tracking-widest text-gray-600">Let's Build something together</p>
+          <p className="upercase text-sm tracking-widest text-gray-600">Let&apos;s Build something together</p>
           <h1 className="py-4 text-gray-700">
-            Hi, I'm <span className="text-[#5651e5]">Aga</span>
+            Hi, I&apos;m <span className="text-[#5651e5]">Aga</span>
           </h1>
           <h1 className="py-4 text-gray-700">A Front-End Web Developer</h1>
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
-            I'm a fresh graduate from Satya Wacana Cristian University with experience in web game developing and android application developing, but now i'am focusing in learning responsive front-end web application technologies
+            I&apos;m a fresh graduate from Satya Wacana Cristian University with experience in web game developing and android application developing, but now i&apos;am focusing in learning responsive front-end web application technologies
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 crusor-pointer hover:scale-110 ease-in duration-300  ">

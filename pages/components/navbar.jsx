@@ -65,7 +65,7 @@ const Navbar = () => {
               </div>
             </div>
             <div className="border-b border-gray-300 my-4">
-              <p className="w-[85%] md:w-[90%] py-4">Let's build someting legendary together </p>
+              <p className="w-[85%] md:w-[90%] py-4">Let&apos;s build someting legendary together </p>
             </div>
           </div>
           <div className="py-4 flex flex-col ">
@@ -97,7 +97,7 @@ const Navbar = () => {
               </Link>
             </ul>
             <div className="pt-40 ">
-              <p className="uppercase tracking-widest text-[#5651e5]">Let's Connect </p>
+              <p className="uppercase tracking-widest text-[#5651e5]">Let&apos;s Connect </p>
               <div className="flex items-center justify-between my-4 w-full sm:mw-[100%]">
                 <div className="rounded-full shadow-lg shadow-gray-400 p-3 crusor-pointer hover:scale-105 ease-in duration-300  ">
                   <a href="https://www.linkedin.com/in/aga-ilham-ferdiansyah-091387220/">
