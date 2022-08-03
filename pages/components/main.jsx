@@ -1,11 +1,11 @@
 import React from "react";
 import { AiOutlineClose, AiOutlineMenu, AiOutlineMail } from "react-icons/ai";
-import { FaLinkedinIn, FaGithub } from "react-icons/fa";
+import { FaLinkedinIn, FaGithub, FaInstagram, FaWhatsapp } from "react-icons/fa";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 
 const Main = () => {
   return (
-    <div className="w-full h-screen text-center">
+    <div id="home" className="w-full h-screen text-center">
       <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div>
           <p className="upercase text-sm tracking-widest text-gray-600">Let's Build something together</p>
@@ -18,16 +18,24 @@ const Main = () => {
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 crusor-pointer hover:scale-110 ease-in duration-300  ">
-              <FaLinkedinIn />
+              <a href="https://www.linkedin.com/in/aga-ilham-ferdiansyah-091387220/">
+                <FaLinkedinIn />
+              </a>
             </div>
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 crusor-pointer hover:scale-110 ease-in duration-300  ">
-              <FaGithub />
+              <a href="https://github.com/Agailh">
+                <FaGithub />
+              </a>
             </div>
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 crusor-pointer hover:scale-110 ease-in duration-300  ">
-              <AiOutlineMail />
+              <a href="https://www.instagram.com/aga_ilham86/">
+                <FaInstagram />
+              </a>
             </div>
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 crusor-pointer hover:scale-110 ease-in duration-300  ">
-              <BsFillPersonLinesFill />
+              <a href="https://wa.me/089668899475">
+                <FaWhatsapp />
+              </a>
             </div>
           </div>
         </div>
