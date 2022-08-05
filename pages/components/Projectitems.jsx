@@ -1,5 +1,5 @@
 import React from "react";
-import Link from "next/dist/client/Link";
+import Link from "next/dist/client/link";
 import Image from "next/image";
 
 export const Projectitems = ({ title, backgroundImg, projectUrl, subtitle }) => {
