@@ -1,6 +1,6 @@
 import React from "react";
 import Project1Img from "../../public/Assets/Projects/Project_1g.gif";
-import Project2Img from "../../public/Assets/Projects/Project_2g.gif";
+import Project2Img from "../../public/Assets/Projects/Project_2G.gif";
 import Project3Img from "../../public/Assets/Projects/Project_3g.gif";
 import Projectitems from "./Projectitems";
 
