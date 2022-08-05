@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "encoding": "^0.1.13",
+    "mongodb-client-encryption": "^2.1.0",
     "next": "12.2.3",
+    "node-gyp": "^9.1.0",
+    "npm": "^8.16.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.4.0"
