@@ -3,7 +3,7 @@ import Image from "next/image";
 import Navbar from "./components/Navbar";
 import Main from "./components/Main";
 import About from "./components/About";
-import Skills from "./components/Skill";
+import Skills from "./components/Skills";
 import Project from "./components/Project";
 import Contact from "./components/Contact";
 
@@ -18,7 +18,7 @@ export default function Home() {
       <Navbar />
       <Main />
       <About />
-      <Skill />
+      <Skills />
       <Project />
       <Contact />
     </div>
